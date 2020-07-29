@@ -2,6 +2,8 @@
 
 First GitHub Project/ Learning to code and use GitHub
 
-Hello! 
-I'm currently a full time dentist that works in public health.
-I'm learning code to create more job flexibility and opportunities for myself in the future.
+Hello!
+
+My name is Emily, and I'm a full time dentist.
+
+I'm learning code to give myself more job flexibility and career opportunities for the future.
